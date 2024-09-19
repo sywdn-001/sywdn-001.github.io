@@ -64,7 +64,11 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
         </svg>
     </a>
     
-    
+    <a href="http://sywdn.top/about.html" class="btn btn-invisible circle" title="关于页面">
+        <svg class="octicon" width="16" height="16" >
+            <path id="关于页面" fill-rule="evenodd"></path>
+        </svg>
+    </a>
     <a href="http://sywdn.top/rss.xml" target="_blank" id="buttonRSS" class="btn btn-invisible circle" title="RSS">
         <svg class="octicon" width="16" height="16" >
             <path id="pathRSS" fill-rule="evenodd"></path>
@@ -80,18 +84,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div style="margin-bottom: 16px;">十月玩电脑的小站———一个小学生的技术网站</div>
 <nav class="SideNav border">
-<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/guan-yu-ye-mian.html">
-    <div class="d-flex flex-items-center">
-        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
-        </svg>
-        <span class="listTitle">关于页面</span>
-    </div>
-    <div class="listLabels">
-        
-        <span class="Label LabelName" style="background-color:#0075ca"><object><a style="color:#fff" href="tag.html#documentation">documentation</a></object></span>
-        <span class="Label LabelTime" style="background-color:#bc4c00">2024-09-19</span>
-    </div>
-</a>
+
 </nav>
 </div>
     <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="http://sywdn.top">十月玩电脑的小站</a></div>
@@ -158,7 +151,7 @@ for(var i=0;i<iconPost.length;i++){
 
 
 
-
+document.getElementById("关于页面").setAttribute("d",value=IconList["about"]);
 </script>
 
 
