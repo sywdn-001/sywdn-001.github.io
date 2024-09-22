@@ -156,7 +156,7 @@
 
 ![19](https://github.com/user-attachments/assets/63fb631a-5601-46d0-a3cc-b4ab84b76dc2)
 
-出现如下界面时，安装你的应用程序(我这里演示的是GoogleChrome - 浏览器)：
+出现如下界面时，安装你的应用程序(我这里演示的是FDM - 文件下载工具)：
 
 ![20](https://github.com/user-attachments/assets/0192ab9c-3dbe-427c-8c3b-3a9add855b02)
 
