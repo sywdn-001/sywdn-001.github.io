@@ -1,6 +1,6 @@
 # VMWere Thin App 保姆级使用教程 • 软件绿化教程
 
-`Gmeek-html<iframe src="https://music.163.com/outchain/player?type=2&id=5101648&auto=1&height=66" width="100%" height="150px" frameborder="0" allowfullscreen="true"></iframe>`
+`Gmeek-html[<iframe src="https://www.widgets.link/#/date-number-05?cbg=5483e9&tc=fff&cc=fff&bg=&br=20&s=1"></iframe>]`
 
 ***
 
