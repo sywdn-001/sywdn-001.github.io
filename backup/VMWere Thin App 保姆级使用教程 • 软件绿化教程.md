@@ -1,5 +1,3 @@
-# VMWere Thin App 保姆级使用教程 • 软件绿化教程
-
 `Gmeek-html[<iframe src="https://www.widgets.link/#/date-number-05?cbg=5483e9&tc=fff&cc=fff&bg=&br=20&s=1"></iframe>]`
 
 ***
