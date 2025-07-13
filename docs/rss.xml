@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>十月玩电脑的小站</title><link>http://sywdn.top</link><description>十月玩电脑的小站———一个小学生的技术网站</description><copyright>十月玩电脑的小站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sywdn-001/sywdn-001.github.io/main/MyLogo.png</url><title>avatar</title><link>http://sywdn.top</link></image><lastBuildDate>Tue, 29 Apr 2025 09:35:08 +0000</lastBuildDate><managingEditor>十月玩电脑的小站</managingEditor><ttl>60</ttl><webMaster>十月玩电脑的小站</webMaster><item><title>欢迎来到Python - Rich 使用教程 2. 初试身手 - 打印渲染Markdown (将持续更新)</title><link>http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%202.%20-chu-shi-shen-shou-%20-%20-da-yin-xuan-ran-Markdown%20%28-jiang-chi-xu-geng-xin-%29.html</link><description>&gt;提前说明：本文是一个六年级小学生所写，如有错误请指出，不喜勿喷！
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>十月玩电脑的小站</title><link>http://sywdn.top</link><description>十月玩电脑的小站———一个小学生的技术网站</description><copyright>十月玩电脑的小站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sywdn-001/sywdn-001.github.io/main/MyLogo.png</url><title>avatar</title><link>http://sywdn.top</link></image><lastBuildDate>Sun, 13 Jul 2025 16:25:25 +0000</lastBuildDate><managingEditor>十月玩电脑的小站</managingEditor><ttl>60</ttl><webMaster>十月玩电脑的小站</webMaster><item><title>欢迎来到Python - Rich 使用教程 2. 初试身手 - 打印渲染Markdown (将持续更新)</title><link>http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%202.%20-chu-shi-shen-shou-%20-%20-da-yin-xuan-ran-Markdown%20%28-jiang-chi-xu-geng-xin-%29.html</link><description>&gt;提前说明：本文是一个六年级小学生所写，如有错误请指出，不喜勿喷！
 &gt;
 &gt;转载请标明出处：十月玩电脑
 &gt;
@@ -152,18 +152,7 @@ console.print(md)
 
 ## Setp3 ：结语
 
-谢谢您看完本文章，看完之后记得动手实践一下哦！。</description><guid isPermaLink="true">http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%202.%20-chu-shi-shen-shou-%20-%20-da-yin-xuan-ran-Markdown%20%28-jiang-chi-xu-geng-xin-%29.html</guid><pubDate>Tue, 29 Apr 2025 09:27:33 +0000</pubDate></item><item><title>我也真是服了，我的后桌普熙文...</title><link>http://sywdn.top/post/wo-ye-zhen-shi-fu-le-%EF%BC%8C-wo-de-hou-zhuo-pu-xi-wen-....html</link><description>&gt; [!Tip]&#13;
-&gt; 我没有针对一个人，玩笑而已&#13;
-&#13;
-今天运动会，他居然骂我，我们当了好久的朋友，呜呜呜。</description><guid isPermaLink="true">http://sywdn.top/post/wo-ye-zhen-shi-fu-le-%EF%BC%8C-wo-de-hou-zhuo-pu-xi-wen-....html</guid><pubDate>Thu, 10 Oct 2024 14:24:57 +0000</pubDate></item><item><title>尴尬死了...</title><link>http://sywdn.top/post/gan-ga-si-le-....html</link><description>### 我录了一期节目&#13;
-&#13;
-***&#13;
-&#13;
-尴尬死了，呵呵呵^_^&#13;
-&#13;
-`Gmeek-html&lt;iframe src='https://tv.sohu.com/v/dXMvNDIyMjE0NDM5LzU2MjgwMDkzNi5zaHRtbA==.html' frameborder='0' allowfullscreen='true'&gt;&lt;/iframe&gt;`&#13;
-&#13;
-。</description><guid isPermaLink="true">http://sywdn.top/post/gan-ga-si-le-....html</guid><pubDate>Sun, 06 Oct 2024 13:34:57 +0000</pubDate></item><item><title>欢迎来到Python - Rich 使用教程 1. 入门阶段 - 打印你好世界 (将持续更新)</title><link>http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%201.%20-ru-men-jie-duan-%20-%20-da-yin-ni-hao-shi-jie-%20%28-jiang-chi-xu-geng-xin-%29.html</link><description>***
+谢谢您看完本文章，看完之后记得动手实践一下哦！。</description><guid isPermaLink="true">http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%202.%20-chu-shi-shen-shou-%20-%20-da-yin-xuan-ran-Markdown%20%28-jiang-chi-xu-geng-xin-%29.html</guid><pubDate>Tue, 29 Apr 2025 09:27:33 +0000</pubDate></item><item><title>欢迎来到Python - Rich 使用教程 1. 入门阶段 - 打印你好世界 (将持续更新)</title><link>http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%201.%20-ru-men-jie-duan-%20-%20-da-yin-ni-hao-shi-jie-%20%28-jiang-chi-xu-geng-xin-%29.html</link><description>***
 
 &gt;提前说明：本文是一个六年级小学生所写，如有错误请指出，不喜勿喷！
 &gt;
@@ -254,48 +243,7 @@ print('[red]Hello World[/red]')
 
 好了，至此，全文终！
 
-更多Rich系列文章将在后续发布！。</description><guid isPermaLink="true">http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%201.%20-ru-men-jie-duan-%20-%20-da-yin-ni-hao-shi-jie-%20%28-jiang-chi-xu-geng-xin-%29.html</guid><pubDate>Wed, 02 Oct 2024 11:35:37 +0000</pubDate></item><item><title>我的生活感触</title><link>http://sywdn.top/post/wo-de-sheng-huo-gan-chu.html</link><description>我的日常生活，可谓是一塌糊涂...&#13;
-&#13;
-要成绩，没成绩(平时只能考70多分)，要爱情，没有回复(是真的！)&#13;
-&#13;
-前几天，我和朋友出去吃某不知名火锅，她一句话都没更我说...&#13;
-&#13;
-好像很讨厌我似的，就想赶紧回家...&#13;
-&#13;
-我就想知道，我做错了什么？。</description><guid isPermaLink="true">http://sywdn.top/post/wo-de-sheng-huo-gan-chu.html</guid><pubDate>Wed, 02 Oct 2024 08:37:21 +0000</pubDate></item><item><title>爱造谣的,你别造了,从*雪</title><link>http://sywdn.top/post/ai-zao-yao-de-%2C-ni-bie-zao-le-%2C-cong---xue.html</link><description>##### 记仇日记 - 2024-9-29&#13;
-&#13;
-***&#13;
-&#13;
-&gt; 今天，我们班的同学又说我...&#13;
-&#13;
-&gt; [!Note]&#13;
-&gt;&#13;
-&gt; 地点：武术课上&#13;
-&#13;
-老师让我们**自由活动**，校园里飘来一阵浓烟，是外面在卖烤鸡翅，我逗了逗他们，说 : '**我现在可以出去买到，你信吗？**'这句话没用脏话，对吧？&#13;
-&#13;
-他们非要说我**说脏话了**...&#13;
-&#13;
-尤其是那个***从\*雪***非要说我骂脏话，我也是无语了，为什么同学们老是针对我&#13;
-&#13;
-我有点失望，我已经**习惯了孤独**，我有一个**冷门的爱好**至少在班里，没有多少个同学学编程的，就算有，也是***家长让学的***&#13;
-&#13;
-说好听一点，叫**家长让学**，难听点，就是**逼着学**&#13;
-&#13;
-我玩过一点游戏，但是***不感兴趣***，和同学也没有共同话题&#13;
-&#13;
-同学们又***针对我***&#13;
-&#13;
-我的心，像被针扎的一样疼...。</description><guid isPermaLink="true">http://sywdn.top/post/ai-zao-yao-de-%2C-ni-bie-zao-le-%2C-cong---xue.html</guid><pubDate>Sun, 29 Sep 2024 14:10:29 +0000</pubDate></item><item><title>唉，人间沧桑，顾好自己，兄弟</title><link>http://sywdn.top/post/ai-%EF%BC%8C-ren-jian-cang-sang-%EF%BC%8C-gu-hao-zi-ji-%EF%BC%8C-xiong-di.html</link><description>&gt; [!NOTE]&#13;
-&gt; 此文章没有针对某一个人，说说而已&#13;
-&#13;
-今天我被我们班的一位女同学骂了，我早上开窗户，她还不让我开，还说我开窗户的声音大，这就是我们班(感慨激昂的说~)&#13;
-至 陈**。</description><guid isPermaLink="true">http://sywdn.top/post/ai-%EF%BC%8C-ren-jian-cang-sang-%EF%BC%8C-gu-hao-zi-ji-%EF%BC%8C-xiong-di.html</guid><pubDate>Tue, 24 Sep 2024 14:15:17 +0000</pubDate></item><item><title>我的后桌有拖延症</title><link>http://sywdn.top/post/wo-de-hou-zhuo-you-tuo-yan-zheng.html</link><description>&gt; [!NOTE]&#13;
-&gt; 此文章没有针对某一个人，说说而已&#13;
-&#13;
-我真是服了，有一个拖延症后桌其实没啥...&#13;
-**小组合作**时我的心情 -&gt; 啊啊啊，毁灭吧，都九点半了，任务完成不了，他的作业还没写完&#13;
-至 - 普*文 同学。</description><guid isPermaLink="true">http://sywdn.top/post/wo-de-hou-zhuo-you-tuo-yan-zheng.html</guid><pubDate>Tue, 24 Sep 2024 13:27:53 +0000</pubDate></item><item><title>VMWere Thin App 保姆级使用教程 • 软件绿化教程</title><link>http://sywdn.top/post/VMWere%20Thin%20App%20-bao-mu-ji-shi-yong-jiao-cheng-%20%E2%80%A2%20-ruan-jian-lv-hua-jiao-cheng.html</link><description>`Gmeek-html[&lt;iframe src='https://www.widgets.link/#/date-number-05?cbg=5483e9&amp;tc=fff&amp;cc=fff&amp;bg=&amp;br=20&amp;s=1'&gt;&lt;/iframe&gt;]`&#13;
+更多Rich系列文章将在后续发布！。</description><guid isPermaLink="true">http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%201.%20-ru-men-jie-duan-%20-%20-da-yin-ni-hao-shi-jie-%20%28-jiang-chi-xu-geng-xin-%29.html</guid><pubDate>Wed, 02 Oct 2024 11:35:37 +0000</pubDate></item><item><title>VMWere Thin App 保姆级使用教程 • 软件绿化教程</title><link>http://sywdn.top/post/VMWere%20Thin%20App%20-bao-mu-ji-shi-yong-jiao-cheng-%20%E2%80%A2%20-ruan-jian-lv-hua-jiao-cheng.html</link><description>`Gmeek-html[&lt;iframe src='https://www.widgets.link/#/date-number-05?cbg=5483e9&amp;tc=fff&amp;cc=fff&amp;bg=&amp;br=20&amp;s=1'&gt;&lt;/iframe&gt;]`&#13;
 &#13;
 ***&#13;
 &#13;
