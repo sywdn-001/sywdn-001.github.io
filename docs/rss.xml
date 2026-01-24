@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>十月玩电脑的小站</title><link>http://sywdn.top</link><description>十月玩电脑的小站———一个小学生的技术网站</description><copyright>十月玩电脑的小站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sywdn-001/sywdn-001.github.io/main/MyLogo.png</url><title>avatar</title><link>http://sywdn.top</link></image><lastBuildDate>Sun, 13 Jul 2025 16:25:25 +0000</lastBuildDate><managingEditor>十月玩电脑的小站</managingEditor><ttl>60</ttl><webMaster>十月玩电脑的小站</webMaster><item><title>欢迎来到Python - Rich 使用教程 2. 初试身手 - 打印渲染Markdown (将持续更新)</title><link>http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%202.%20-chu-shi-shen-shou-%20-%20-da-yin-xuan-ran-Markdown%20%28-jiang-chi-xu-geng-xin-%29.html</link><description>&gt;提前说明：本文是一个六年级小学生所写，如有错误请指出，不喜勿喷！
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>十月玩电脑的小站</title><link>http://sywdn.top</link><description>十月玩电脑的小站———一个小学生的技术网站</description><copyright>十月玩电脑的小站</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/sywdn-001/sywdn-001.github.io/main/MyLogo.png</url><title>avatar</title><link>http://sywdn.top</link></image><lastBuildDate>Sat, 24 Jan 2026 03:21:26 +0000</lastBuildDate><managingEditor>十月玩电脑的小站</managingEditor><ttl>60</ttl><webMaster>十月玩电脑的小站</webMaster><item><title>日记 - 0x01</title><link>http://sywdn.top/post/ri-ji-%20-%200x01.html</link><description>### 日记 - 0x01
+
+-----
+
+**重要声明**:本人发布文章只是**个人观点**，如有问题联系(**E-mail:[sywdn002@gmail.com](mailto:sywdn002@gmail.com)**)
+
+&lt;font color='red'&gt;**注意，仅代表个人观点！！！**&lt;/font&gt;
+
+--------
+
+#### **站主的问题** 
+
+站主是一名初一的学生，因为学习上的一些事情被学校老师长期语言霸凌(尤其是政治老师)，出现了一些心理上的问题，我其实也不理解他为什么要这样子对我 
+
+----------
+
+站主刚进入初中时，感觉一切良好，当时我感觉未来一片&lt;font color='blue'&gt;美好的景色&lt;/font&gt;，可是学业的压力，父母的期盼，老师的呵斥却一把把我**拉回了现实**
+
+我在**126中学**学习，那里的内卷&lt;font color='red'&gt;近乎疯狂&lt;/font&gt;学生们每天就是在晚上8点拖着疲惫回家写作业，一写又写到12点，我也不理解中式填鸭式教育的意义是什么？让学生受苦受累？把学生逼近悬崖的边缘？本人憋了一学期的不甘，愤怒都在这一时爆发了出来，我也不知道为什么？总是这样子。</description><guid isPermaLink="true">http://sywdn.top/post/ri-ji-%20-%200x01.html</guid><pubDate>Sat, 24 Jan 2026 03:20:22 +0000</pubDate></item><item><title>欢迎来到Python - Rich 使用教程 2. 初试身手 - 打印渲染Markdown (将持续更新)</title><link>http://sywdn.top/post/huan-ying-lai-dao-Python%20-%20Rich%20-shi-yong-jiao-cheng-%202.%20-chu-shi-shen-shou-%20-%20-da-yin-xuan-ran-Markdown%20%28-jiang-chi-xu-geng-xin-%29.html</link><description>&gt;提前说明：本文是一个六年级小学生所写，如有错误请指出，不喜勿喷！
 &gt;
 &gt;转载请标明出处：十月玩电脑
 &gt;
